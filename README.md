@@ -10,4 +10,4 @@ Specifically, to calculate Gumbel's parameters, we used three different ways:
 To find the *best parameters* we applied Pearson's test and we used 
 results to plot the called **LSPP**.
 
-These data will be used to design a storm water drainage network (you can find more info about SWDN at the [*OSF* project page](https://osf.io/6zpav/)).
+These data will be used to design a storm water drainage network (you can find more info about SWDN [here](https://github.com/anzo559/stormwater-drainage-network.git) or into [*OSF* project page](https://osf.io/6zpav/)).
